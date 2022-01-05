@@ -10,3 +10,4 @@ Prior to model implementation, the data set was split into training and test set
 The Decision Tree model rank ordered the highest in terms of precision when predicting those that will not suffer from heart failure, but only by .7 percentage points and was the strongest of performers predicting recall of those with heart failure. The logistic regression was the strongest performer in terms of precision of those expected to suffer from heart disease (8.1 percentage points greater than the decision tree) as well as the recall of those expected to not suffer heart failure, and overall accuracy. The Naïve Bayes model did not score as the preeminent model in any performance metrics. 
 
 Within the logistic regression model, the features that most contributed to the accuracy of the predictions are: Old peak, chest pain type (ATA and NAP),  and ST slope. 
+
