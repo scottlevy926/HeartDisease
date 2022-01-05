@@ -3,7 +3,7 @@ Heart Disease Prediction Model
 
 The data set is comprised of 11 predictor features and a binary target (heart disease) with 918 observations. The objective of this analysis is to classify individuals into a group that is expected to suffer from heart failure or those that are not.  Each observation is a cross section of medical records belonging to a unique individual.
 
-We developed three unique classification models, which were each peer reviewed for methodological soundness and performance. Classification methods were chosen by G2QC as the preferred technique since the target variable (heart disease) is binary. The three models employed for review were Decision Tree, Naïve Bayes, and Logistic Regression. 
+We developed three unique classification models, which were each peer reviewed for methodological soundness and performance. Classification methods were chosen as the preferred technique since the target variable (heart disease) is binary. The three models employed for review were Decision Tree, Naïve Bayes, and Logistic Regression. 
 
 Prior to model implementation, the data set was split into training and test sets. Of most importance is how the model(s) perform against the test set, as this will provide the closest comparison to real life circumstances. The performance metrics of interest are Accuracy, Precision, and Recall.
 
