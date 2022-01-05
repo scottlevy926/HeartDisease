@@ -11,3 +11,4 @@ The Decision Tree model rank ordered the highest in terms of precision when pred
 
 Within the logistic regression model, the features that most contributed to the accuracy of the predictions are: Old peak, chest pain type (ATA and NAP),  and ST slope. 
 
+
